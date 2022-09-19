@@ -1,0 +1,15 @@
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.csproj.AssemblyReference.cache
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.AssemblyInfoInputs.cache
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.AssemblyInfo.cs
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.csproj.CoreCompileInputs.cache
+C:\Users\44774\Desktop\CardsManagement\bin\Debug\net6.0\CardsManagement.exe
+C:\Users\44774\Desktop\CardsManagement\bin\Debug\net6.0\CardsManagement.deps.json
+C:\Users\44774\Desktop\CardsManagement\bin\Debug\net6.0\CardsManagement.runtimeconfig.json
+C:\Users\44774\Desktop\CardsManagement\bin\Debug\net6.0\CardsManagement.dll
+C:\Users\44774\Desktop\CardsManagement\bin\Debug\net6.0\CardsManagement.pdb
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.dll
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\refint\CardsManagement.dll
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.pdb
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\CardsManagement.genruntimeconfig.cache
+C:\Users\44774\Desktop\CardsManagement\obj\Debug\net6.0\ref\CardsManagement.dll
